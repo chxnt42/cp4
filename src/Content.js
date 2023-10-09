@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 export default function Content() {
     return (
         <>
-
+            
             <footer>
                 <table>
                     <tr>
